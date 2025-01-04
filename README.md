@@ -1,6 +1,6 @@
 # 👋 Hi
 
-I’m Kevin, a 13-year-old who loves to code.
+I’m Kevin, a 14-year-old who loves to code.
 
 Finally Android Studio works
 ## What I am working on
