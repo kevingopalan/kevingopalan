@@ -6,6 +6,6 @@ My phone broke guys (new one has been ordered)
 ## What I am working on
 |Status|Project|Progress|
 |-------|-------|--------|
-|current|Sunwise|80%|
+|**current**|**Sunwise**|**80%**|
 |paused|TovinOS|80%|
 
