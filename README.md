@@ -4,8 +4,8 @@ I’m Kevin, a 14-year-old who loves to code.
 
 My phone broke guys (new one has been ordered)
 ## What I am working on
-|Status|Project|Progress|
-|-------|-------|--------|
-|**current**|**Sunwise**|**80%**|
-|paused|TovinOS|80%|
+|Project|Status|Progress|
+|-------|------|--------|
+|**Sunwise**|**Active**|**80%**|
+|TovinOS|Paused|80%|
 
