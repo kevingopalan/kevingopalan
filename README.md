@@ -2,7 +2,7 @@
 
 I’m Kevin, a 14-year-old who loves to code.
 
-Finally Android Studio works
+My phone broke guys (new one coming soon)
 ## What I am working on
 - [current] Sunwise [50%]
 - [paused] TovinOS [80%]
