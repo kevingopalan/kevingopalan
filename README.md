@@ -7,5 +7,6 @@ I have no time to work on stuff 😭
 |Project|Status|Progress|
 |-------|------|--------|
 |**Sunwise**|**Active**|**98%** (Internal/Closed Testing)|
+|**VLM-enhanced navigation × Unitree Go2**|**Active**|**15%**|
 |TovinOS|Paused|80%|
 
