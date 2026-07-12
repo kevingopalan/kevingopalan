@@ -1,4 +1,4 @@
-# Hello there! 🤗 
+# Hello there!
 
 I’m Kevin, a 15-year-old who loves to code.
 
