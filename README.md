@@ -6,7 +6,8 @@ I’m Kevin, a 15-year-old who loves to code.
 |Project|Status|Progress|
 |-------|------|--------|
 |**Studying**|**Active**|**N/A**|
-|**Sunwise**|**Slowed**|**99%** (Applying for production/retesting)|
-|**VLM-enhanced navigation**|**Slowed**|**15%**|
+|Astrolabe|Temporarily paused|10%|
+|VLM-enhanced navigation|Temporarily paused|15%|
+|Sunwise|In-production (lower priority)|--% (maintenance as needed)|
 |TovinOS|Paused|80%|
 
